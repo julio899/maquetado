@@ -1,0 +1,15 @@
+div#contenido-medio{
+	margin-top: 100px;
+	min-height: 400px;
+
+}
+/*parrafo pie de pagina*/
+.derechos{
+text-align: left;
+margin-right: 20px;
+
+}
+#boton-salir{
+	margin-top: 20px;
+	margin-left: 10px;
+}
